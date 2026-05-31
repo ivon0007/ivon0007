@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\itextsharp.dll
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\itextsharp.xml
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsF.E63CBBD4.Up2Date
